@@ -4,7 +4,7 @@
 # Welcome to CTFAK 2.0!
 By Kostya and Yunivers
 
-I had a copy of CTFAK 0.22 beforeit got archived on Nov 6, 2024, sooooooo.... here you go! woth the requirements already installed
+I had a copy of CTFAK 0.22 beforeit got archived on Nov 6, 2024, sooooooo.... here you go! with the requirements already installed
 
 [Discord](https://www.discord.com/invite/wsH3KNtvvJ)
 | Table of Contents | Description |
